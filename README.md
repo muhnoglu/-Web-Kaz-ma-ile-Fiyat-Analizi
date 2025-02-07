@@ -10,11 +10,10 @@ Bu proje, **online kitap satışı yapan bir şirketin** "Seyahat" ve "Kurgu Dı
 
 ## 🧑‍💻 Kullanılan Teknolojiler
 
-- **Python 3.x**: Proje için Python programlama dili kullanılmıştır.
+
 - **Selenium**: Web tarayıcısını kontrol etmek ve sayfaları kazımak için Selenium WebDriver kullanılmıştır.
 - **BeautifulSoup**: HTML ve XML verilerini işlemek ve verileri çekmek için BeautifulSoup kütüphanesi kullanılmıştır.
 - **Regex (Düzenli İfadeler)**: Özellikle kitapların yıldız sayısı gibi verilerin çekilmesinde düzenli ifadeler kullanılmıştır.
-- **Pandas**: Verilerin analiz edilmesi ve işlenmesi için pandas kütüphanesi kullanılmıştır.
 
 ## 🔍 Proje Akışı
 
